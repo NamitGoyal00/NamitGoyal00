@@ -64,8 +64,8 @@ Hello there! I'm Namit Goyal
 
 
 <p align = "center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shreyasmishragithub&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreyasmishragithub&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamitGoyal00&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamitGoyal00&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
 </p>
 
 <br>
