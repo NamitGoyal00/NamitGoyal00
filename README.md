@@ -18,7 +18,7 @@ Hello there! I'm Namit Goyal
 👨‍💻 I enjoy Sports Programming and Problem Solving 👨‍💻
 <br>
 <br>
-📪 Connect with me at <a href = "https://www.linkedin.com/in/namit-goyal-a042841bb/"><img src="https://img.shields.io/badge/-Namit%20Goyal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:namitgoyal2000@gmail.com"><img src="https://img.shields.io/badge/shreyasmishra12345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
+📪 Connect with me at <a href = "https://www.linkedin.com/in/namit-goyal-a042841bb/"><img src="https://img.shields.io/badge/-Namit%20Goyal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:namitgoyal2000@gmail.com"><img src="https://img.shields.io/badge/namitgoyal2000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
 
 
 </p>
